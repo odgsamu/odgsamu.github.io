@@ -23,3 +23,13 @@ h1 {
         width:100%;
     }
 }
+@media (max-width: 311px) {
+    #loke {
+        width:100%;
+    }
+}
+@media (max-width: 251px) {
+    #boke {
+        width:100%;
+    }
+}
