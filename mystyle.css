@@ -1,16 +1,25 @@
-<head>
-<style>
 body {
     background-color: whitesmoke;
 }
 p {
     font-family: "Courier New", Times, monospace;
 }
-Try it Yourself »
-
 h1 {
     color: darkblue;
     margin-left: 40px;
 } 
-</style>
-</head>
+@media (max-width: 654px) {
+    #bob {
+        width:100%;
+    }
+}
+@media (max-width: 523px) {
+    #poke {
+        width:100%;
+    }
+}
+@media (max-width: 233px) {
+    #boke {
+        width:100%;
+    }
+}
